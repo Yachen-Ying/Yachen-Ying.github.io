@@ -38,7 +38,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/Yachen-Ying/Yachen-Ying.github.io/blob/Feeling-ph/images/'
+urlimg: 'https://Yachen-Ying.github.io/images/'
 
 
 # Logo size is 600x80 pixels
