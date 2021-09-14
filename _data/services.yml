@@ -1,17 +1,17 @@
-- menu_name: "Services"
+- menu_name: "Links"
 
-- name: "Contact"
+- name: "Contact us"
   url: "/contact/"
   title: "Contact"
 
-- name: "RSS"
-  url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+- name: "Peking University"
+  url: https://www.pku.edu.cn/
+  title: 
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+- name: "College of Future Technology, Peking University"
+  url: https://future.pku.edu.cn/
+  title: 
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+- name: "College of Engineering, Peking University"
+  url: https://www.coe.pku.edu.cn/
+  title: 

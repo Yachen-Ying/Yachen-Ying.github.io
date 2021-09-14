@@ -1,8 +1,20 @@
-- title: Start
+- title: HOME
   url: "/"
   side: left
 
-- title: Getting Started
+- title: RESEARCH
+  url: "/getting-started/"
+  side: left
+
+- title: PEOPLE
+  url: "/getting-started/"
+  side: left
+
+- title: PUBLICATIONS
+  url: "/getting-started/"
+  side: left
+
+- title: NEWS
   url: "/getting-started/"
   side: left
 
@@ -66,10 +78,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "SEARCH"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "CONTACT US"
   url: "/contact/"
   side: right
