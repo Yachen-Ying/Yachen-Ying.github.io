@@ -3,11 +3,11 @@
   side: left
 
 - title: RESEARCH
-  url: "/getting-started/"
+  url: "/research/"
   side: left
 
 - title: PEOPLE
-  url: "/getting-started/"
+  url: "/people/"
   side: left
 
 - title: PUBLICATIONS
@@ -15,7 +15,7 @@
   side: left
 
 - title: NEWS
-  url: "/getting-started/"
+  url: "/news/"
   side: left
 
 - title: "Templates"
