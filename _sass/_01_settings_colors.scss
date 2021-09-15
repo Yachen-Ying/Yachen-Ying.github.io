@@ -32,8 +32,8 @@ $ci-3               : #EFC94C; // yellow
 $ci-4               : #E27A3F; // orange
 $ci-5               : #DF4949; // red
 $ci-6               : #A1D044; // green
-$ciyc-1             : #334D5C; // dark turquoise
-$ciyc-2             : #45B29D; // turquoise
+$ciyc-1             : #5c3333; // dark red
+$ciyc-2             : #b24545; // turquoise
 $ciyc-3             : #EFC94C; // yellow
 $ciyc-4             : #E27A3F; // orange
 $ciyc-5             : #DF4949; // red
@@ -43,12 +43,12 @@ $ciyc-6             : #A1D044; // green
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color      : $ci-1;
-$secondary-color    : $ci-6;
+$primary-color      : $ciyc-1;
+$secondary-color    : $ciyc-5;
 $alert-color        : $ci-5;
 $success-color      : $ci-6;
 $warning-color      : $ci-4;
-$info-color         : $ci-1;
+$info-color         : $ciyc-1;
 
 
 
@@ -81,31 +81,31 @@ $topbar-bg-color    : $body-bg;
 $topbar-bg          : $topbar-bg-color;
 
 
-$topbar-dropdown-toggle-color: $ci-1;
+$topbar-dropdown-toggle-color: $ciyc-1;
 
 $topbar-link-color  : #000;
 $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-label-color: $ciyc-2;
+$topbar-dropdown-link-bg-hover: $ciyc-5;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $ciyc-5; // Active Navigation Link
+$topbar-link-bg-hover: $ciyc-5;
+$topbar-link-bg-active-hover: $ciyc-2;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $ciyc-5; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-link-bg: $ciyc-2;
 
-$topbar-menu-link-color-toggled: $ci-1;
-$topbar-menu-icon-color-toggled: $ci-1;
+$topbar-menu-link-color-toggled: $ciyc-1;
+$topbar-menu-icon-color-toggled: $ciyc-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $ciyc-5;
+$topbar-menu-icon-color-toggled: $ciyc-5;
 
 
 
@@ -114,7 +114,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 
 $footer-bg          : $grey-8;
 $footer-color       : #fff;
-$footer-link-color  : $ci-6;
+$footer-link-color  : $ciyc-5;
 
 
 $subfooter-bg       : $grey-13;
