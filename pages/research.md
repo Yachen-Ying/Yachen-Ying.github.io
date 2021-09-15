@@ -1,6 +1,6 @@
 ---
 layout              : page-fullwidth
-title               : "Research"
+title               : "Research Directions"
 meta_title          : "Research"
 subheadline         : 
 teaser              : 
