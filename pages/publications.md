@@ -87,3 +87,8 @@ permalink           : "/publications/"
 * Chen, A.K., Rhee, W.J., Bao G. and Tsourkas, A.\* (2011) Delivery of Molecular Beacons for Live-cell Imaging and Analysis of RNA, RNA Detection and Visualization, Jeffrey E. Gerst, Humana Press, pp 159-174.
 
 ## Patent
+
+
+* Andrew Tsourkas and Antony Chen. Quantitative Molecular Probes, 2007. US Application Number: 12/282.612; International Application Number: PCT/US07/064099.
+
+* Andrew Tsourkas and Antony Chen. Novel Molecular Beacons. 2009. US Application Number: 61/244,378; International Application Number: PCT/US10/49301.
