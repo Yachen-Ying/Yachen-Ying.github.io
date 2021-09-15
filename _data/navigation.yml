@@ -80,7 +80,7 @@
 
 - title: "SEARCH"
   url: "/search/"
-  side: right
+  side: left
 
 - title: "CONTACT US"
   url: "/contact/"

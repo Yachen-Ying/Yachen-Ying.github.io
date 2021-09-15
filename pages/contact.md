@@ -7,8 +7,8 @@ teaser              :
 permalink           : "/contact/"
 ---
 
-* Location: Integrated Research Center 112, Peking University, Beijing, China
-* Phone: 010-62768343
-* E-mail: chenak@pku.edu.cn
+**Location:** Integrated Research Center 112, Peking University, Beijing, China
 
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+**Phone:** 010-62768343
+
+**E-mail:** chenak@pku.edu.cn
