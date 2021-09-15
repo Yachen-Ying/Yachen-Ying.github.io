@@ -78,10 +78,12 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "SEARCH"
-  url: "/search/"
-  side: left
-
 - title: "CONTACT US"
   url: "/contact/"
+  side: left
+
+- title: "SEARCH"
+  url: "/search/"
   side: right
+
+
