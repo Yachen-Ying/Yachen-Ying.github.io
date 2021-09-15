@@ -1,7 +1,7 @@
 ---
 layout              : page-fullwidth
 title               : "Publications"
-meta_title          : 
+meta_title          : "Lab publications"
 subheadline         : 
 teaser              : 
 permalink           : "/publications/"

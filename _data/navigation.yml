@@ -82,8 +82,8 @@
   url: "/contact/"
   side: left
 
-- title: "SEARCH"
-  url: "/search/"
-  side: right
+# - title: "SEARCH"
+#   url: "/search/"
+#   side: right
 
 
