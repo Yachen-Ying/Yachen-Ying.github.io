@@ -12,3 +12,4 @@ permalink           : "/people/"
 ## Current Members
 
 ## Graduated
+
