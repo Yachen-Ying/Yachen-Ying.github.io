@@ -1,7 +1,7 @@
 ---
 layout              : page
 title               : "Contact Us"
-meta_title          : "Contact us"
+meta_title          : "CHENLAB"
 subheadline         : 
 teaser              : 
 permalink           : "/contact/"

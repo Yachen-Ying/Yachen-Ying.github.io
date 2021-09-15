@@ -1,7 +1,7 @@
 ---
 layout              : page-fullwidth
 title               : "Publications"
-meta_title          : "Lab publications"
+meta_title          : "CHENLAB"
 subheadline         : 
 teaser              : 
 permalink           : "/publications/"
