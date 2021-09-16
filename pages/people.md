@@ -60,31 +60,31 @@ permalink           : "/people/"
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Jinshan Qin</h5>
-            <h6>Postdoctoral Fellow</h6>
+            <h6 class="text-center">Postdoctoral Fellow</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
 		<p class="text-center">
-            Shiqi Mao
-            phD Candidate
+            <h5 class="text-center">Shiqi Mao</h5>
+            <h6 class="text-center">phD Candidate</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
 		<p class="text-center">
-            Yachen Ying
-            Graduate Student
+            <h5 class="text-center">Yachen Ying</h5>
+            <h6 class="text-center">Graduate Student</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
 		<p class="text-center">
-            Ruonan Wu
-            Graduate Student
+            <h5 class="text-center">Ruonan Wu</h5>
+            <h6 class="text-center">Graduate Student</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
 		<p class="text-center">
-            Weibang Luo
-            Graduate Student
+            <h5 class="text-center">Weibang Luo</h5>
+            <h6 class="text-center">Graduate Student</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><!-- Your content goes here --></li>
