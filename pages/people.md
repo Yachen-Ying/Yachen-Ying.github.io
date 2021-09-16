@@ -57,27 +57,34 @@ permalink           : "/people/"
 ## Current Members
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="http://placekitten.com/271/270" alt="uh, Placekitten">
+  <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
 		<p class="text-left">
+            Jinshan Qin
             Postdoctoral Fellow
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
-  <li><img src="http://placekitten.com/271/270" alt="uh, Placekitten">
+  <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
 		<p class="text-left">
+            Shiqi Mao
             phD Candidate
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
-  <li><img src="http://placekitten.com/271/270" alt="uh, Placekitten">
+  <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
 		<p class="text-left">
+            Yachen Ying
             Graduate Student
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
-  <li><img src="http://placekitten.com/271/270" alt="uh, Placekitten">
+  <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
 		<p class="text-left">
+            Ruonan Wu
+            Graduate Student
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
-  <li><img src="http://placekitten.com/271/270" alt="uh, Placekitten">
+  <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
 		<p class="text-left">
+            Weibang Luo
+            Graduate Student
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><!-- Your content goes here --></li>
