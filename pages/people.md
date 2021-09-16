@@ -89,18 +89,22 @@ permalink           : "/people/"
 ##### Xiaotian Wu, phD
 ###### Dec. 2015 — Jun. 2021
 ***Current Position:*** 
+-----
 
 ##### Na Qu, phD
 ###### Sept. 2015 — Jun. 2021
 ***Current Position:*** 
+-----
 
 ##### Yantao Yang, phD
 ###### Sept. 2015 — Jun. 2021
 ***Current Position:*** 
+-----
 
 ##### Zhao Ma, MS
 ###### Sept. 2014 — Jun. 2020
 ***Current Position:*** 
+-----
 
 ##### Mingming Chen, MS
 ###### Sept. 2014 — Jun. 2018
