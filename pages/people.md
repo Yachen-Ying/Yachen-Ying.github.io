@@ -18,7 +18,7 @@ permalink           : "/people/"
   </div>
 
   <div class="large-8 columns">
-            <h3>Antony K. Chen, PhD, Associate Professor</h3>
+            <h3>Antony K. Chen, Ph.D., Associate Professor</h3>
 <p><em>Department of Biomedical Engineering, College of Future Technology, Peking University</em></p>
 <p><strong>Research Interests</strong></p>
 <p>DNA/RNA Imaging Probes, CRISPR gene editing/labeling technology, Live-cell Imaging, DNA-RNA-Protein Interactions, Virus-Host Interactions, Super-resolution Imaging, Molecular and Nanomedicine</p>
@@ -63,7 +63,7 @@ permalink           : "/people/"
   <li><img src="https://i.loli.net/2021/09/16/tHJPQpzMZqVYTSa.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Shiqi Mao</h5>
-            <h6 class="text-center">phD Candidate</h6>
+            <h6 class="text-center">Ph.D. Candidate</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><img src="https://i.loli.net/2021/09/16/QCaXIbFhBpLPl9m.png" alt="uh, Placekitten">
@@ -90,31 +90,31 @@ permalink           : "/people/"
 
 ## Graduated
 
-##### Xiaotian Wu, phD
+##### Xiaotian Wu, Ph.D.
 ###### Dec. 2015 — Jun. 2021
 ***Current Position:*** Canon Medical Systems (China) Co., Ltd.
 
 -----
 
-##### Na Qu, phD
+##### Na Qu, Ph.D.
 ###### Sept. 2015 — Jun. 2021
 ***Current Position:*** Zybio Inc.
 
 -----
 
-##### Yantao Yang, phD
+##### Yantao Yang, Ph.D.
 ###### Sept. 2015 — Jun. 2021
 ***Current Position:*** Huawei Technologies Co., Ltd.
 
 -----
 
-##### Zhao Ma, MS
+##### Zhao Ma, M.S.
 ###### Sept. 2014 — Jun. 2020
 ***Current Position:*** Beijing Municipal Health Commission
 
 -----
 
-##### Mingming Chen, MS
+##### Mingming Chen, M.S.
 ###### Sept. 2014 — Jun. 2018
 ***Current Position:*** RIkagaku KENkyusho/Institute of Physical and Chemical Research
 
