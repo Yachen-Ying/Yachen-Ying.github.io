@@ -14,7 +14,7 @@ permalink           : "/people/"
   	<div class="border-dotted radius b30">
 		<img src="http://placekitten.com/271/270" alt="uh, Placekitten">
 		<p class="text-left">
-			This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a>
+			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p>
 	</div>
   
@@ -55,6 +55,34 @@ permalink           : "/people/"
 
 
 ## Current Members
+
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+  <li><img src="http://placekitten.com/271/270" alt="uh, Placekitten">
+		<p class="text-left">
+            Postdoctoral Fellow
+			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
+		</p></li>
+  <li><img src="http://placekitten.com/271/270" alt="uh, Placekitten">
+		<p class="text-left">
+            phD Candidate
+			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
+		</p></li>
+  <li><img src="http://placekitten.com/271/270" alt="uh, Placekitten">
+		<p class="text-left">
+            Graduate Student
+			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
+		</p></li>
+  <li><img src="http://placekitten.com/271/270" alt="uh, Placekitten">
+		<p class="text-left">
+			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
+		</p></li>
+  <li><img src="http://placekitten.com/271/270" alt="uh, Placekitten">
+		<p class="text-left">
+			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
+		</p></li>
+  <li><!-- Your content goes here --></li>
+</ul>
+
 
 ## Graduated
 
