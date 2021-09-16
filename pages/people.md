@@ -20,7 +20,7 @@ permalink           : "/people/"
   
   </div>
 
-  <div class="large-8 columns" markdown="1">
+  <div class="large-8 columns">
             <h3>Giannis Mpourmpakis, PhD</h3>
                     
                         <h4>Bicentennial Alumni Faculty Fellow</h4>
