@@ -22,7 +22,7 @@ permalink           : "/people/"
 
   <div class="large-8 columns">
             <h3>Antony K. Chen, PhD, Associate Professor</h3>
-<p>Department of Biomedical Engineering, College of Future Technology, Peking University</p>
+<p><em>Department of Biomedical Engineering, College of Future Technology, Peking University</em></p>
 <p><strong>Research Interests</strong></p>
 <p>DNA/RNA Imaging Probes, CRISPR gene editing/labeling technology, Live-cell Imaging, DNA-RNA-Protein Interactions, Virus-Host Interactions, Super-resolution Imaging, Molecular and Nanomedicine</p>
 <p><strong>Education</strong></p>
