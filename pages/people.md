@@ -12,7 +12,7 @@ permalink           : "/people/"
 <div class="row">
   <div class="large-4 columns">
   	<div class="border-dotted radius b30">
-		<img src="http://placekitten.com/271/270" alt="uh, Placekitten">
+		<img src="https://i.loli.net/2021/09/16/IAHExTt4cjgpS9f.png" alt="uh, Placekitten">
 		<p class="text-left">
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p>
@@ -81,7 +81,7 @@ permalink           : "/people/"
             <h6 class="text-center">Graduate Student</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
-  <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
+  <li><img src="https://i.loli.net/2021/09/16/CFWvSjAK4PRQHfE.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Weibang Luo</h5>
             <h6 class="text-center">Graduate Student</h6>
