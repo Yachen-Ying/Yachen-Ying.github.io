@@ -58,31 +58,31 @@ permalink           : "/people/"
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
-		<p class="text-left">
-            Jinshan Qin
-            Postdoctoral Fellow
+		<p class="text-center">
+            <h5>Jinshan Qin</h5>
+            <h6>Postdoctoral Fellow</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
-		<p class="text-left">
+		<p class="text-center">
             Shiqi Mao
             phD Candidate
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
-		<p class="text-left">
+		<p class="text-center">
             Yachen Ying
             Graduate Student
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
-		<p class="text-left">
+		<p class="text-center">
             Ruonan Wu
             Graduate Student
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
-		<p class="text-left">
+		<p class="text-center">
             Weibang Luo
             Graduate Student
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
