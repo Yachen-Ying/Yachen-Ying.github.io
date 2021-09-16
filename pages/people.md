@@ -21,7 +21,11 @@ permalink           : "/people/"
   </div>
 
   <div class="large-8 columns" markdown="1">
-    ### Antony
+            <h3>Giannis Mpourmpakis, PhD</h3>
+                    
+                        <h4>Bicentennial Alumni Faculty Fellow</h4>
+                    
+                        <h4>Associate Professor</h4>
 
 
 
