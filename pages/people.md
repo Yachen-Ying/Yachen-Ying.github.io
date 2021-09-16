@@ -13,9 +13,6 @@ permalink           : "/people/"
   <div class="large-4 columns">
   	<div class="border-dotted radius b30">
 		<img src="https://i.loli.net/2021/09/16/IAHExTt4cjgpS9f.png" alt="uh, Placekitten">
-		<p class="text-left">
-			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
-		</p>
 	</div>
   
   </div>
