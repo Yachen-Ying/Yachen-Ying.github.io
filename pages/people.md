@@ -47,7 +47,7 @@ permalink           : "/people/"
 <li>The US. National Research Council (NRC) Research Associate Fellowship (2010-2012)</li>
 <li>Solomon R. Pollack Award for Excellence in Graduate Bioengineering Research (Best Ph.D. Thesis)  (2009)</li>
            
-
+</ul>
 
 
   </div>
