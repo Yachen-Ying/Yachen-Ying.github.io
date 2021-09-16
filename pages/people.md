@@ -58,11 +58,11 @@ permalink           : "/people/"
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
-		<p class="text-center">
+		
             <h5 class="text-center">Jinshan Qin</h5>
             <h6 class="text-center">Postdoctoral Fellow</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
-		</p></li>
+		</li>
   <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Shiqi Mao</h5>
