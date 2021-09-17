@@ -54,7 +54,7 @@ permalink           : "/people/"
 ## Current Members
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="https://i.loli.net/2021/09/16/PORv8k6AtEHqjdU.png" alt="uh, Placekitten">
+  <li><img src="{{ site.urlimg }}qjs_picture.png" alt="uh, Placekitten">
 		
             <h5 class="text-center">Jinshan Qin</h5>
             <h6 class="text-center">Postdoctoral Fellow</h6>
