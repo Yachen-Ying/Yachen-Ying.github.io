@@ -12,7 +12,7 @@ permalink           : "/people/"
 <div class="row">
   <div class="large-4 columns">
   	<div class="border-dotted radius b30">
-		<img src="https://i.loli.net/2021/09/16/IAHExTt4cjgpS9f.png" alt="uh, Placekitten">
+		<img src="{{ site.urlimg }}members/ac_picture.png" alt="uh, Placekitten">
 	</div>
   
   </div>
@@ -54,31 +54,31 @@ permalink           : "/people/"
 ## Current Members
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="{{ site.urlimg }}qjs_picture.png" alt="uh, Placekitten">
+  <li><img src="{{ site.urlimg }}members/qjs_picture.png" alt="uh, Placekitten">
 		
             <h5 class="text-center">Jinshan Qin</h5>
             <h6 class="text-center">Postdoctoral Fellow</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</li>
-  <li><img src="https://i.loli.net/2021/09/16/tHJPQpzMZqVYTSa.png" alt="uh, Placekitten">
+  <li><img src="{{ site.urlimg }}members/msq_picture.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Shiqi Mao</h5>
             <h6 class="text-center">Ph.D. Candidate</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
-  <li><img src="https://i.loli.net/2021/09/16/QCaXIbFhBpLPl9m.png" alt="uh, Placekitten">
+  <li><img src="{{ site.urlimg }}members/yc_picture.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Yachen Ying</h5>
             <h6 class="text-center">Graduate Student</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
-  <li><img src="https://i.loli.net/2021/09/16/Ui9nHEtB6SyvOGq.png" alt="uh, Placekitten">
+  <li><img src="{{ site.urlimg }}members/wrn_picture.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Ruonan Wu</h5>
             <h6 class="text-center">Graduate Student</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
-  <li><img src="https://i.loli.net/2021/09/16/CFWvSjAK4PRQHfE.png" alt="uh, Placekitten">
+  <li><img src="{{ site.urlimg }}members/lwb_picture.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Weibang Luo</h5>
             <h6 class="text-center">Graduate Student</h6>
